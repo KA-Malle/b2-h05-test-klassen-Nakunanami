@@ -8,3 +8,13 @@ C:\Users\Stijn\Dropbox\KA Malle\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokem
 C:\Users\Stijn\Dropbox\KA Malle\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\bin\Debug\Test H5 Klasse Pokemon LEEG.pdb
 C:\Users\Stijn\Dropbox\KA Malle\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test H5 Klasse Pokemon LEEG.exe
 C:\Users\Stijn\Dropbox\KA Malle\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test H5 Klasse Pokemon LEEG.pdb
+C:\Users\Sluyts Roxy\OneDrive - gomalle.net\school\Software ontwikkeling\Git projecten\b2-h05-test-klassen-Nakunanami\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\bin\Debug\Test H5 Klasse Pokemon LEEG.exe.config
+C:\Users\Sluyts Roxy\OneDrive - gomalle.net\school\Software ontwikkeling\Git projecten\b2-h05-test-klassen-Nakunanami\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\bin\Debug\Test H5 Klasse Pokemon LEEG.exe
+C:\Users\Sluyts Roxy\OneDrive - gomalle.net\school\Software ontwikkeling\Git projecten\b2-h05-test-klassen-Nakunanami\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\bin\Debug\Test H5 Klasse Pokemon LEEG.pdb
+C:\Users\Sluyts Roxy\OneDrive - gomalle.net\school\Software ontwikkeling\Git projecten\b2-h05-test-klassen-Nakunanami\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test H5 Klasse Pokemon LEEG.csproj.AssemblyReference.cache
+C:\Users\Sluyts Roxy\OneDrive - gomalle.net\school\Software ontwikkeling\Git projecten\b2-h05-test-klassen-Nakunanami\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test_H5_Klasse_Pokemon_LEEG.Form1.resources
+C:\Users\Sluyts Roxy\OneDrive - gomalle.net\school\Software ontwikkeling\Git projecten\b2-h05-test-klassen-Nakunanami\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test_H5_Klasse_Pokemon_LEEG.Properties.Resources.resources
+C:\Users\Sluyts Roxy\OneDrive - gomalle.net\school\Software ontwikkeling\Git projecten\b2-h05-test-klassen-Nakunanami\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test H5 Klasse Pokemon LEEG.csproj.GenerateResource.cache
+C:\Users\Sluyts Roxy\OneDrive - gomalle.net\school\Software ontwikkeling\Git projecten\b2-h05-test-klassen-Nakunanami\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test H5 Klasse Pokemon LEEG.csproj.CoreCompileInputs.cache
+C:\Users\Sluyts Roxy\OneDrive - gomalle.net\school\Software ontwikkeling\Git projecten\b2-h05-test-klassen-Nakunanami\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test H5 Klasse Pokemon LEEG.exe
+C:\Users\Sluyts Roxy\OneDrive - gomalle.net\school\Software ontwikkeling\Git projecten\b2-h05-test-klassen-Nakunanami\Test H5 Klasse Pokemon LEEG\Test H5 Klasse Pokemon LEEG\obj\Debug\Test H5 Klasse Pokemon LEEG.pdb
